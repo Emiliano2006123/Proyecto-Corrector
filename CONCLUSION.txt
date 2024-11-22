@@ -1,0 +1,2 @@
+322289691
+Con este proyecto consistio en implementar un algoritmo que simule la funcionalidad "¿Quiso decir?" utilizamos comúnmente en motores de búsqueda. El proyecto aplico los conocimientos que aprendimos durante el curso tales como el manejo de archivos, ordenamiento, búsquedas, y la implementación de diferentes códigos. 
